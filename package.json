@@ -1,5 +1,5 @@
 {
-  "name": "next-ts-chakra-test-template",
+  "name": "next-ts-simple-template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,10 +19,6 @@
     "test:coverage": "jest --coverage"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.0.0",
-    "@emotion/react": "^11",
-    "@emotion/styled": "^11",
-    "framer-motion": "^6",
     "next": "12.1.5",
     "react": "18.0.0",
     "react-dom": "18.0.0"

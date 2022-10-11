@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Template Content
+[x] - Working typescript configuration 
+[x] - Working initial cypress configuration 
+[x] - Working initial jest configuration
+[x] - Working github-actions workflow for cypress testing 
+
+
 ## Getting Started
 
 First, run the development server:
